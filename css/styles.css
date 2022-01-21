@@ -1,0 +1,22 @@
+/*
+Forces carousel image to be 100% width and not max width of 100%
+*/
+.carousel-item .img-fluid {
+    max-height: 720px;
+}
+
+.underline-text-color {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 80%, #45db65 80%);
+}
+
+.carousel-item .comment_img {
+    max-height: 150px !important;
+    max-width: 150px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel_icon {
+    font-size: 50px;
+    color: black;
+}
