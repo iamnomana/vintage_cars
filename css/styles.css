@@ -1,6 +1,7 @@
-/*
-Forces carousel image to be 100% width and not max width of 100%
-*/
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .carousel-item .img-fluid {
     max-height: 720px;
 }
